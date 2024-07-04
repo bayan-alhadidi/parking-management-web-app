@@ -1,49 +1,54 @@
-ParkPro - Parking Management System
-Introduction
+# ParkPro - Parking Management System
+
+## Introduction
+
 ParkPro is an innovative web application designed to simplify and streamline the management of parking lots. This system provides essential tools for both parking lot administrators and employees to ensure efficient, organized, and user-friendly operations.
 
-Features
-Admin (Parking Lot Owner/Manager)
-Account Management:
+## Features
 
-Create and manage accounts for the parking lot.
-Secure login for administrators.
-Parking Lot Configuration:
+### Admin (Parking Lot Owner/Manager)
 
-Customize and configure parking lot settings.
-Employee Management:
+#### Account Management:
+- Create and manage accounts for the parking lot.
+- Secure login for administrators.
 
-Add and remove employees.
-Assign roles and permissions.
-Parking Spot Management:
+#### Parking Lot Configuration:
+- Customize and configure parking lot settings.
 
-Add, modify, or delete parking spots.
-Vehicle Management:
+#### Employee Management:
+- Add and remove employees.
+- Assign roles and permissions.
 
-Record vehicle check-ins and check-outs.
-Print vehicle entry receipts.
-Reporting:
+#### Parking Spot Management:
+- Add, modify, or delete parking spots.
 
-View detailed reports on parking lot usage (daily, weekly, monthly).
-Monitor available and occupied spots.
-Ticket Management:
+#### Vehicle Management:
+- Record vehicle check-ins and check-outs.
+- Print vehicle entry receipts.
 
-Access and review issued tickets.
-Employee (Parking Lot Staff)
-Account Management:
+#### Reporting:
+- View detailed reports on parking lot usage (daily, weekly, monthly).
+- Monitor available and occupied spots.
 
-Secure login for employees.
-Vehicle Management:
+#### Ticket Management:
+- Access and review issued tickets.
 
-Assist with recording vehicle check-ins and check-outs.
-Print vehicle entry receipts.
-Reporting:
+### Employee (Parking Lot Staff)
 
-Access daily, weekly, and monthly reports on parking lot usage.
-Monitor available and occupied spots.
-Ticket Management:
+#### Account Management:
+- Secure login for employees.
 
-Access and review issued tickets.
+#### Vehicle Management:
+- Assist with recording vehicle check-ins and check-outs.
+- Print vehicle entry receipts.
+
+#### Reporting:
+- Access daily, weekly, and monthly reports on parking lot usage.
+- Monitor available and occupied spots.
+
+#### Ticket Management:
+- Access and review issued tickets.
+
 
 ![image](https://github.com/bayan-alhadidi/parking-management-web-app/assets/68386289/c0f0e5c4-5a60-4577-9460-60d0c8d88206)
 
