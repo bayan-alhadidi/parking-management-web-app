@@ -60,3 +60,16 @@ ParkPro is an innovative web application designed to simplify and streamline the
 
 ![image](https://github.com/bayan-alhadidi/parking-management-web-app/assets/68386289/4d72a8d4-4d89-4808-8683-ec895747ec57)
 
+![image](https://github.com/bayan-alhadidi/parking-management-web-app/assets/68386289/f8eafdf2-1920-40aa-83c4-b893ebffb879)
+
+![image](https://github.com/bayan-alhadidi/parking-management-web-app/assets/68386289/63b5007a-5357-4df8-b984-77af9934ecd5)
+
+![image](https://github.com/bayan-alhadidi/parking-management-web-app/assets/68386289/7a008cc6-41a5-4e7e-806c-04ee90c3c5a9)
+
+![image](https://github.com/bayan-alhadidi/parking-management-web-app/assets/68386289/f39b6b8e-27ca-46e2-8172-7fbcec859dbc)
+
+![image](https://github.com/bayan-alhadidi/parking-management-web-app/assets/68386289/bcf8c60d-9728-44d8-9564-561c5d6f07c3)
+
+
+
+
